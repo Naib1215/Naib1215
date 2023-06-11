@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naib1215
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and JAVA,CSS,HTML
+- 🌱 I’m currently learning Python and JS,CSS,HTML, C
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me- mohaiminnaib006@gmail.com 
 
